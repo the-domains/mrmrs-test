@@ -1,6 +1,6 @@
 name: mrmrs-test
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.5870338680688292
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: shares
     item: null
     url: null
+typography_spectrum: 0.8668591431342065
