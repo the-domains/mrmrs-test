@@ -4,8 +4,15 @@
         <description><![CDATA[mrmrs-test]]></description>
         <link>https://thegrid.ai/mrmrs-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 10:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 10:03:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mrmrs-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Man vs Bike]]></title>
+            <description><![CDATA[<article><h1>Man vs Bike</h1><p>Adam "touch me" Morse takes on Brent "jxnblk" Jackson.</p><img src="https://i.ytimg.com/vi/QU4CNH9Av2E/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=QU4CNH9Av2E</link>
+            <guid isPermaLink="false">8896a002-eb43-4de3-a542-5d84343e67c1</guid>
+            <pubDate>Wed, 21 Oct 2015 10:01:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting ready for 👻🎃]]></title>
             <description><![CDATA[<article><h1>Getting ready for 👻🎃</h1><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s640x640/sh0.08/e35/12093759_861200577308893_2079492456_n.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>they’ve</p>]]></description>
             <link>https://thegrid.ai/mrmrs-test/theyve/index.html</link>
             <guid isPermaLink="false">555ea374-8559-467d-89fd-ac24928d41d0</guid>
-            <pubDate>Wed, 21 Oct 2015 09:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The diatonic scale of type: http://mrmrs.io/diatonic-type/</p>]]></description>
-            <link>https://twitter.com/mrmrs_/status/656268999865430016</link>
-            <guid isPermaLink="false">31dc0360-36ea-4adb-80bf-e7294f661b7a</guid>
             <pubDate>Wed, 21 Oct 2015 09:44:32 GMT</pubDate>
         </item>
     </channel>
