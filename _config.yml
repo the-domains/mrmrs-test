@@ -1,7 +1,8 @@
 name: mrmrs-test
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.8668591431342065
+title: Test Fixtures for Grid Development
 cta:
   domain: null
   bucket: null
