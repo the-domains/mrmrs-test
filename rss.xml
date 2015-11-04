@@ -4,8 +4,15 @@
         <description><![CDATA[Test Fixtures for Grid Development]]></description>
         <link>https://thegrid.ai/mrmrs-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 09:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2015 03:39:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mrmrs-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[microbeats]]></title>
+            <description><![CDATA[<article><h1>microbeats</h1><p>Microbeats is an experiment in music production emphasizing quantity over quality. All loops are created by Jxnblk in under an hour and not mixed down or mastered.</p></article>]]></description>
+            <link>http://microbeats.cc/</link>
+            <guid isPermaLink="false">56aec5e6-960c-470c-9909-47c45dfd64ca</guid>
+            <pubDate>Wed, 04 Nov 2015 03:38:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MrsJxn]]></title>
             <description><![CDATA[<article><h1>MrsJxn</h1><p>STUFF</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02533fbb-3e66-4d97-865f-ccedaec90c31.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>PRNT - Print work by MRMRS</h1><p>PRNT - The print portfolio of Adam Morse. Designer / Developer based in San Francisco.</p><img src="https://s3-us-west-2.amazonaws.com/prnt/hw-080411-cargo_960.jpg"></article>]]></description>
             <link>http://prnt.cc/</link>
             <guid isPermaLink="false">e8105d33-f3b7-44a1-8123-a527ebb18756</guid>
-            <pubDate>Wed, 21 Oct 2015 09:44:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Design Details - 56: Lego Bits (feat. Adam Morse) - Spec]]></title>
-            <description><![CDATA[<article><h1>Design Details - 56: Lego Bits (feat. Adam Morse) - Spec</h1><p>Podcasts for Designers and Developers. Level up your career.</p><img src="https://simplecast-media.s3.amazonaws.com/podcast/image/1034/small_1440374100-artwork.jpg"></article>]]></description>
-            <link>http://spec.fm/podcasts/design-details/16190</link>
-            <guid isPermaLink="false">fde62b4e-3a15-4229-aa34-1d40d76fc1bc</guid>
             <pubDate>Wed, 21 Oct 2015 09:44:33 GMT</pubDate>
         </item>
     </channel>
